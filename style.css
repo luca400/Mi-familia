@@ -1,0 +1,18 @@
+.nav-link {
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+}
+
+.nav-link : hover{
+   font-weight: bold;
+   color: white;
+}
+
+.card-text{
+  text-align: justify;
+}
+
+.display-4{
+  text-align: center;
+}
